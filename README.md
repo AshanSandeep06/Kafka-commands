@@ -1,6 +1,6 @@
 # Kafka Commands
 
-<hr>STEP 1</hr>: DOWNLOAD AND INSTALL KAFKA
+STEP 1: DOWNLOAD AND INSTALL KAFKA
 https://dlcdn.apache.org/kafka/3.2.0/...
 
 STEP 2: START THE KAFKA ENVIRONMENT
